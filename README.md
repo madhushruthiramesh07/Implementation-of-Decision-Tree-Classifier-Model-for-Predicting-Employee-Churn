@@ -68,8 +68,9 @@ RegisterNumber:  212225040216
 ```
 
 ## Output:
-Accuracy: 1.0
 
+```
+Accuracy: 1.0
 Classification Report:
                precision    recall  f1-score   support
 
@@ -77,6 +78,8 @@ Classification Report:
     accuracy                           1.00         3
    macro avg       1.00      1.00      1.00         3
 weighted avg       1.00      1.00      1.00         3
+
+```
 
 ![WhatsApp Image 2026-02-11 at 11 32 54 AM](https://github.com/user-attachments/assets/a4706d5e-db30-455c-a0ec-d67cc0e43657)
 
